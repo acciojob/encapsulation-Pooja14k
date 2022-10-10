@@ -5,7 +5,7 @@ public class Main {
     RWOnly obj = new RWOnly();
     //obj.name(kale);
     obj.setName("kale");
-    System.out.println(obj.getName());
+    System.out.print(obj.getName());
   }
  
 }
